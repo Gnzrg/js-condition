@@ -182,7 +182,7 @@ else{
     console.log('even')
 }   */
 
-//4
+//4  7
 
 
 /*let numb2 = parseInt(prompt('durin too oruulna uu'))
